@@ -1,6 +1,9 @@
 {
   "pack": {
     "pack_format": 6,
-    "description": "Minecraft_OZ-Pack_Version_1.16.4"
+    "description": "\u00A76\u00A7lOpaZerons\u0027s gefixtes MixPack \n\u00A7r\u00A7fv1.16.4+ \u00A78\u00A7o(Optifine ZWINGEND benötigt)"
+  },
+  "meta": {
+    "game_version": "1.16.4"
   }
 }

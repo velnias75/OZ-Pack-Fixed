@@ -1,5 +1,5 @@
 ﻿Glückauf!!!
-Opa Zeron Texturenpack
+Opa Zeron Texturenpack (fixed)
 Willkommen im Dreielbenland
 Hundsgrab
 Schlangenstein
@@ -14,3 +14,7 @@ Ei-TV Nachrichten
 Wolfsbach
 Zweibrücken
 Thaneberg
+Pangäa
+Kuhfelde
+Vogelsberg
+ManuelaKeks
