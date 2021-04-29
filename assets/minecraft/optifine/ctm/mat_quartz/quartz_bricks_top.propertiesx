@@ -1,4 +1,4 @@
 matchBlocks=minecraft:quartz_bricks
 method=random
 faces=top bottom
-tiles=82
+tiles=42-61
