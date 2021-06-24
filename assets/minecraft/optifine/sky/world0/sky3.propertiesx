@@ -4,4 +4,4 @@ blend=add
 rotate=true
 endFadeOut=5\:35
 endFadeIn=5\:20
-source=mcpatcher/sky/world0/sky_sunflare2.png
+source=optifine/sky/world0/sky_sunflare2.png
